@@ -1,0 +1,23 @@
+@keyframes piscar {
+    0% { opacity: 1; }
+    50% { opacity: 0.2; }
+    100% { opacity: 1; }
+}
+
+@keyframes vitoria {
+    0% {
+      background-color: lightgrey;
+    }
+    100% {
+      background-color: lightgreen;
+    }
+}
+
+@keyframes derrota {
+    0% {
+      background-color: lightgrey;
+    }
+    100% {
+      background-color: lightcoral;
+    }
+}
