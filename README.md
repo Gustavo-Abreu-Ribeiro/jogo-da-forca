@@ -100,3 +100,6 @@ O projeto está hospedado via GitHub Pages e pode ser acessado em:
 https://gustavo-abreu-ribeiro.github.io/jogo-da-forca/
 
 Caso veja a versão antiga após atualizações, limpe o cache do navegador ou force o reload com Ctrl + F5.
+
+## Jogue Também
+![jogo da forca](https://github.com/user-attachments/assets/f5a57e49-e1f9-4807-aff5-441aad69a3c1)
