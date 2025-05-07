@@ -79,7 +79,7 @@ Ela pode ser consultada no arquivo `JogoDaForca_D1.pdf` dentro do sistema BlackB
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/forca-automato.git
+   git clone https://github.com/Gustavo-Abreu-Ribeiro/jogo-da-forca.git
    cd forca-automato
 
 2. Instale as dependências:
